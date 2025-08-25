@@ -4,7 +4,7 @@
 💻 Entusiasta em **programação, automação de processos e desenvolvimento de software fullstack**.  
 🚀 Buscando constantemente desafios que unam **tecnologia, inovação e impacto real**.  
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
@@ -23,21 +23,22 @@
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=azuredevops&logoColor=white" />
 </p>
----
+
+
 
 ## 📌 Experiências
 - **Projetista – Cimatec Jr (EJ do SENAI CIMATEC):** Desenvolvimento web (React, Next.js, Node.js), prototipação (Figma) e metodologias ágeis.  
 - **Estagiário em Finanças – Urca Global Fund:** Automação de relatórios (Python), otimização de planilhas (VBA), criação de formulários dinâmicos (JS).  
 - **Diretor de Comunicações – Cimatec Finance (LAMF):** Liderança em comunicação interna/externa e organização de eventos com **BP Investimentos** e **ACT Investimentos** (XP).  
 
----
+
 
 ## 🌱 O que estou aprendendo agora
 
 - Boas práticas em **arquitetura de software fullstack**  
 - Desenvolvimento frontend com Angular.js
 
----
+
 
 ## 📊 Estatísticas (auto‑atualizáveis)
 
@@ -46,7 +47,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuca-janahu&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
----
+
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/artur-janahu)  
