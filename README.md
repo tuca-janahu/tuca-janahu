@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Artur Janahú
 
-🎓 Estudante de **Engenharia da Computação** no [SENAI CIMATEC](https://www.senaicimatec.com.br/), atualmente no 6º semestre.  
-💻 Entusiasta em **programação, automação de processos e desenvolvimento de software fullstack**.  
-🚀 Buscando constantemente desafios que unam **tecnologia, inovação e impacto real**.  
+- Estudante de **Engenharia da Computação** no [SENAI CIMATEC](https://www.senaicimatec.com.br/), atualmente no 6º semestre.  
+- Entusiasta em **programação, automação de processos e desenvolvimento de software fullstack**.  
+- Buscando constantemente desafios que unam **tecnologia, inovação e impacto real**.  
 
 
 
@@ -43,8 +43,8 @@
 ## 📊 Estatísticas (auto‑atualizáveis)
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tuca-janahu&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuca-janahu&layout=compact&langs_count=8&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tuca-janahu&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuca-janahu&layout=compact&langs_count=8&hide_border=true&theme=dark" />
 </p>
 
 
