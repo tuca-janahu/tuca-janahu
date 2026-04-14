@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Artur Janahú
 
-- Estudante de **Engenharia da Computação** no [SENAI CIMATEC](https://www.senaicimatec.com.br/), atualmente no 6º semestre.  
+- Estudante de **Engenharia da Computação** no [SENAI CIMATEC](https://www.senaicimatec.com.br/), atualmente no 7º semestre.  
 - Entusiasta em **programação, automação de processos e desenvolvimento de software fullstack**.  
 - Buscando constantemente desafios que unam **tecnologia, inovação e impacto real**.  
 
@@ -28,15 +28,16 @@
 
 ## 📌 Experiências
 - **Projetista – Cimatec Jr (EJ do SENAI CIMATEC):** Desenvolvimento web (React, Next.js, Node.js), prototipação (Figma) e metodologias ágeis.  
+- **Diretor de Comunicações – Cimatec Finance (LAMF):** Liderança em comunicação interna/externa e organização de eventos com **BP Investimentos** e **ACT Investimentos** (XP).
 - **Estagiário em Finanças – Urca Global Fund:** Automação de relatórios (Python), otimização de planilhas (VBA), criação de formulários dinâmicos (JS).  
-- **Diretor de Comunicações – Cimatec Finance (LAMF):** Liderança em comunicação interna/externa e organização de eventos com **BP Investimentos** e **ACT Investimentos** (XP).  
+- **Estagiário - Ford Motor Company:** Automação e modernização de processos manuais, Análise de dados e Implementação de IA.
 
 
 
 ## 🌱 O que estou aprendendo agora
 
-- Boas práticas em **arquitetura de software fullstack**  
-- Desenvolvimento frontend com Angular.js
+- Power BI
+- Funcionamento e confecção de Agentes de IA
 
 
 
