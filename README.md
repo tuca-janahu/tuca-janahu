@@ -20,17 +20,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=azuredevops&logoColor=white" />
 </p>
 
 
 
 ## 📌 Experiências
-- **Projetista – Cimatec Jr (EJ do SENAI CIMATEC):** Desenvolvimento web (React, Next.js, Node.js), prototipação (Figma) e metodologias ágeis.  
+- **Estagiário - Ford Motor Company:** Automação e modernização de processos manuais, Análise de dados e Desenvolvimento de aplicações com Implementação de IA.
+- **Estagiário em Finanças – Urca Global Fund:** Automação de relatórios (Python), otimização de planilhas (VBA), criação de formulários dinâmicos (JS).
 - **Diretor de Comunicações – Cimatec Finance (LAMF):** Liderança em comunicação interna/externa e organização de eventos com **BP Investimentos** e **ACT Investimentos** (XP).
-- **Estagiário em Finanças – Urca Global Fund:** Automação de relatórios (Python), otimização de planilhas (VBA), criação de formulários dinâmicos (JS).  
-- **Estagiário - Ford Motor Company:** Automação e modernização de processos manuais, Análise de dados e Implementação de IA.
+- **Projetista – Cimatec Jr (EJ do SENAI CIMATEC):** Desenvolvimento web (React, Next.js, Node.js), prototipação (Figma) e metodologias ágeis.  
 
 
 
