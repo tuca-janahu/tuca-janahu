@@ -37,16 +37,6 @@
 - Funcionamento e confecção de Agentes de IA
 
 
-
-## 📊 Estatísticas (auto‑atualizáveis)
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tuca-janahu&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuca-janahu&layout=compact&langs_count=8&hide_border=true&theme=dark" />
-</p>
-
-
-
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/artur-janahu)  
 - [E-mail](mailto:arturjanahu@gmail.com)  
